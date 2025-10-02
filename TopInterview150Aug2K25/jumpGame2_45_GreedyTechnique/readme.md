@@ -8,7 +8,7 @@ Your goal is to reach the last index (`n - 1`) in the **minimum number of jumps*
 
 ---
 
-##   উদাহরণ (Examples)
+## (Examples)
 
 ### Example 1:
 **Input:** `nums = [2,3,1,1,4]`
